@@ -14,3 +14,4 @@ This change is made to verify GitHub Actions CI pipeline.
 
 --- TEST 5: NO AUTHENTICATION (Should Fail with 401) ---
 Γ£à Success: Access denied for no-auth (Status 401). Message: "You are not logged in. Please login first."
+This file is created to test CI pipeline.
